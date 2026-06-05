@@ -42,7 +42,7 @@ Untuk melihat website ini di komputermu sendiri, ikuti langkah-langkah mudah ber
 
 Unduh/Clone repositori ini ke dalam perangkatmu.
 
-Pastikan semua file inti (Youtube.html, Youtube.css) dan aset visual (seperti IMG_9025.JPG, logo/ikon) berada di dalam struktur folder yang sama.
+Pastikan semua file inti (Index.html, Youtube.css) dan aset visual (seperti IMG_9025.JPG, logo/ikon) berada di dalam struktur folder yang sama.
 
 Klik dua kali atau buka file Youtube.html menggunakan web browser andalanmu (Google Chrome, Firefox, Safari, dll). Tidak perlu instalasi server lokal!
 
